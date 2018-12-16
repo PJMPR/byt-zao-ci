@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/PJMPR/byt-zao-ci.svg?branch=master)](https://travis-ci.com/PJMPR/byt-zao-ci)
+
 # AngularCiDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
