@@ -1,0 +1,7 @@
+sudo: required
+script:
+  - npm rebuild
+  - npm run build
+language: node_js
+node_js:
+   - 10.14.1
